@@ -26,7 +26,7 @@ import {
   CartesianGrid,
 } from 'recharts'
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api'
+const API_BASE_URL = 'https://breathe-esg-0rt4.onrender.com/api'
 
 function App() {
 
