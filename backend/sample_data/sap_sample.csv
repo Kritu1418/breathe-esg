@@ -1,0 +1,8 @@
+document_number|material_number|material_description|plant_code|quantity|unit|posting_date|movement_type|cost_center|amount|currency
+500001|MAT1001|Diesel Fuel|PLANT01|2500|liter|2026-05-01|261|CC100|225000|INR
+500002|MAT1002|Petrol Fuel|PLANT02|1800|liter|2026-05-03|261|CC101|162000|INR
+500003|MAT1003|Natural Gas|PLANT03|900|m3|2026-05-04|261|CC102|99000|INR
+500004|MAT1004|Electricity Procurement|PLANT01|45000|kwh|2026-05-06|101|CC103|315000|INR
+500005|MAT1005|Industrial Lubricant|PLANT02|120|kg|2026-05-08|101|CC104|18000|INR
+500006|MAT1006|Electricity Procurement|PLANT05|9999999|kwh|2026-05-10|101|CC105|999999|INR
+500007|MAT1007|Diesel Fuel|PLANT02|-500|liter|2026-05-11|261|CC106|12000|INR
